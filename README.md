@@ -28,9 +28,9 @@ As an **AI Engineer**, I specialize in developing advanced AI applications that 
 
 ## 🛠️ Tech Stack
 
-- **Core Skills:** Machine Learning, Data Analysis, Data Visualization, NLP
+- **Core Skills:** Machine Learning, Data Analysis, NLP 
 - **Programming Languages:** Python, SQL
-- **AI-Focused Expertise:** Generative AI, LLMs, RAG, AI Agents, Fine-Tuning, Vector Databases
+- **AI-Focused Expertise:** Generative AI, LLMs, RAG, AI Agents, Fine-Tuning
 
 ---
 
