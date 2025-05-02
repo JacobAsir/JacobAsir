@@ -6,9 +6,7 @@
 
 ## 👨‍💻 About Me
 
-My story began with a deep love for **physics** and the thrill of solving complex problems. This passion guided me through my bachelor's degree and eventually opened doors to the field of **data science** a space where I seamlessly combined analytical thinking with real-world problem solving to create meaningful solutions. Along the way, I embraced **AI** and **Large Language Models**, expanding my approach to challenges in innovative ways.
-
-As an **AI Engineer**, I specialize in developing advanced AI applications that automate workflows, enhance decision-making, and deliver impactful solutions. From freelancing to tackling real-world challenges, I focus on building practical and efficient systems.
+I’m an AI Engineer with a strong foundation in data science. My journey started with a passion for physics and problem-solving, which naturally led me into data field. Over time, I’ve specialized in building AI applications that automate workflows and enhance decision-making. I love combining analytical thinking with the creative possibilities of AI, especially when working with large language models to solve real-world problems.
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> <!-- GIF representing AI development/engineering -->
