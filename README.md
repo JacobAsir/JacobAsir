@@ -20,7 +20,7 @@ As an **AI Engineer**, I specialize in developing advanced AI applications that 
 
 - **Fine-Tuning Large Language Models (LLMs):** PEFT, LoRA, QLoRA
 - **Retrieval-Augmented Generation (RAG):** LangChain, LlamaIndex
-- **AI Agents:** AutoGPT, BabyAGI, CAMEL, CrewAI, PhiData
+- **AI Agents:** CrewAI, PhiData, LangGraph
 - **Vector Databases:** DeepLake, Pinecone, FAISS, Chroma, AstraDB
 - **Generative AI Applications:** Building creative and innovative products with real-world impact
 
